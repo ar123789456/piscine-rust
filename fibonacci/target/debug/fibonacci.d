@@ -1,0 +1,1 @@
+C:\Users\Не\ твое\ дело\Documents\piscine-rust\fibonacci\target\debug\fibonacci.exe: C:\Users\Не\ твое\ дело\Documents\piscine-rust\fibonacci\src\fibonacci.rs C:\Users\Не\ твое\ дело\Documents\piscine-rust\fibonacci\src\main.rs
