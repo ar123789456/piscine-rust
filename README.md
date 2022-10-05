@@ -5,5 +5,5 @@ cargo test
 ```
 for run
 ```sh
-cd fo
+cargo run
 ```

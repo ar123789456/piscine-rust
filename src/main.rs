@@ -2,6 +2,7 @@ mod fibonacci;
 use fibonacci::fibonacci;
 
 fn main() {
+    //fibonacci 
     println!("The element in the position {} in fibonacci series is {}",2, fibonacci(2));
     println!("The element in the position {} in fibonacci series is {}",4, fibonacci(4));
     println!("The element in the position {} in fibonacci series is {}",22, fibonacci(22));
