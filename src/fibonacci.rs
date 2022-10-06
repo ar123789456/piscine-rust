@@ -1,4 +1,3 @@
-mod test;
 pub fn fibonacci(n: u32) -> u32 {
     if n < 2 {
         return n;
